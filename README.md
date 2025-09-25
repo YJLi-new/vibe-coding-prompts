@@ -1,5 +1,8 @@
 # vibe-coding-prompts
 
+### 撰写方案：
+I would like to modify the project according to the following method. Please write a detailed, step-by-step, executable code modification plan for the project:
+
 ### 修改方案：
 Please evaluate, analyze, and critique the following rough plan, and roughly assess its feasibility. 【do not modify any files or code】
 The basic structure of the current project is 
@@ -8,7 +11,7 @@ The basic structure of the current project is
 Aim to change this project (preliminary) to 
 - Training: Input 【】 → Output 【】;
 - Test: Input 【】 → Output 【】.
-Parts that need to be changed:
+Please refine and improve the following rough change plan for this project:
 1.1
 1.2
 ...
@@ -26,7 +29,7 @@ The following text is the plan for Phase 3:
 Phase 3 (【】):
 ...
 
-### 修bug
+### 修bug：
 According to the following plan, resolve the problem in 【log】
 
 【DO NOT RUN 【train】 or 【evaluation】! This machine is not a server and is not suitable for running deep learning programs, so it cannot execute training, prediction, and evaluation.】
