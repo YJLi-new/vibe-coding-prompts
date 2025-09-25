@@ -9,7 +9,7 @@ Please evaluate, analyze, and critique the following rough plan, and roughly ass
 The basic structure of the current project is 
 - Training: Input 【】 → Output 【】;
 - Test: Input 【】 → Output 【】.
-- 
+
 Aim to change this project (preliminary) to 
 - Training: Input 【】 → Output 【】;
 - Test: Input 【】 → Output 【】.
