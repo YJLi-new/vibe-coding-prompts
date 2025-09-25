@@ -27,7 +27,9 @@ Please refine and improve the following rough change plan for this project:
 ...
 
 ### 实现方案：
-In this comprehensive task, you need to modify the project code (for the total goal: Transition the existing single-image perception pipeline to a multi-sensor (Camera + LiDAR) Bird's-Eye View (BEV) fusion architecture. This involves generating multiple BEV "panels" as image inputs for the Qwen2-VL model to improve 3D object detection accuracy, while minimizing changes to the existing training and evaluation logic) in 7 phases (1 to 7). 
+In this comprehensive task, you need to modify the project code 
+(for the total goal: 【】)
+in 【N】 phases (【N0】 to 【NN】). 
 
 The Phase 1 (【】) and Phase 2 (【】) has been done. 
 
