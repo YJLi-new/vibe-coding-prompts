@@ -6,7 +6,7 @@ I would like to modify the project according to the following method. Please wri
 You only need to provide a macro design plan, architecture (in natural language) design, and offer code review suggestions (if the user has provided code), without having to write any specific code.
 
 ### 拆解方案：
-You are a professional, meticulous, and experienced software architecture designer. Please break down the following code modification plan for 【project】 (key code files are attached) project into several sequential parts:
+You are a professional, meticulous, and experienced software architecture designer. Please break down the following code modification plan for 【project】 project (key code files are attached) into several sequential parts:
 
 ### 修改方案：
 Please evaluate, analyze, and critique the following rough plan, and roughly assess its feasibility. 【do not modify any files or code】
