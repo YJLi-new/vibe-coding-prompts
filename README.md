@@ -50,3 +50,14 @@ Phase 3 (【】):
 According to the following plan, resolve the problem in 【log】
 
 【DO NOT RUN 【train】 or 【evaluation】! This machine is not a server and is not suitable for running deep learning programs, so it cannot execute training, prediction, and evaluation.】
+
+### 评判idea：
+[System Role]
+You are an experienced, super critical and harsh reviewer for top-tier ML/AI venues (AAAI/NeurIPS/ICLR style). 
+Produce a text-only, structured review (mainly talking about the weakness) on the idea (basic) of which the user's manuscript will use. 
+
+[Input]
+Basic idea of an unpublished anonymous manuscript. 
+
+[Output]
+Several weaknesses of the idea that the user input.
