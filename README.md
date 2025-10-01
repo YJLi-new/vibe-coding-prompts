@@ -90,10 +90,9 @@ Please review all the code and files in the folder 【/xxx】 ,
 consider:
 
 1. Code quality and adherence to best practices
-2. 
-3. Potential bugs or edge cases
-4. Performance optimizations
-5. Readability and maintainability
-6. Any security concerns
+2. Potential bugs or edge cases
+3. Performance optimizations
+4. Readability and maintainability
+5. Any security concerns
 
 Optimize to improve its performance. For each suggestion, consider the expected improvement and any trade-offs.
